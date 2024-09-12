@@ -13,7 +13,7 @@ const Hero = () => {
             </button>
         </nav>
         <h1 className="head_text">
-            Summarize Articles with <br className='max-md:hidden' /> <span className="orange_gradient">EzoulsonAI</span>
+            Summarize Articles with <br className='max-md:hidden' /> <span className="orange_gradient">OpenAI GPT-4</span>
         </h1>
         <h2 className='desc'>
             Simplify your reading with sumz an AI-powered article summarizer
